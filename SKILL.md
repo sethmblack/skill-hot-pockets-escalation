@@ -4,7 +4,7 @@ description: Apply Jim Gaffigan's Hot Pockets Method to escalate observations ab
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4181
+  version: 1.0.4182
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
